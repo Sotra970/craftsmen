@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/profile_action"
+    android:title="الحساب الشخصي"
+
+    />
+<item android:id="@+id/logout_action"
+    android:title=" تسجيل الخروج"
+    />
+</menu>

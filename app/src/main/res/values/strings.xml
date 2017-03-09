@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">الحرفيين</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="password">رمز المرور</string>
+    <string name="details">"تفاصيل الخدمة"</string>
+    <string name="city">المديته</string>
+    <string name="job">المهتة</string>
+    <string name="cant_be_empty">يجب ادخال قيمة</string>
+</resources>
